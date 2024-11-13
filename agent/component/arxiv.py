@@ -26,7 +26,7 @@ class ArXivParam(ComponentParamBase):
 
     def __init__(self):
         super().__init__()
-        self.top_n = 6
+        self.top_n = 10
         self.sort_by = 'submittedDate'
 
     def check(self):
