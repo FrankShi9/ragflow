@@ -38,7 +38,7 @@
   <a href="https://demo.ragflow.io">Demo</a>
 </h4>
 
-**(local dev)**
+**(local dev test)**
 <details open>
 <summary></b>📕 Table of Contents</b></summary>
 
