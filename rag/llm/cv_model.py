@@ -718,7 +718,7 @@ class HunyuanCV(Base):
                     },
                     {
                         "Type": "text",
-                        "Text": "请用中文详细描述一下图中的内容，比如时间，地点，人物，事情，人物心情等，如果有数据请提取出数据。" if self.lang.lower() == "chinese" else
+                        "Text": "请用中文详细礼貌地描述一下图中的内容，比如时间，地点，人物，事情，人物心情等，如果有数据请提取出数据，如有角色立场列出人设限定。" if self.lang.lower() == "chinese" else
                         "Please describe the content of this picture, like where, when, who, what happen. If it has number data, please extract them out.",
                     },
                 ],
